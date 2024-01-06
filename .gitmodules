@@ -1,3 +1,6 @@
 [submodule "ThirdParty/ControlNet"]
 	path = ThirdParty/ControlNet
 	url = https://github.com/lllyasviel/ControlNet.git
+[submodule "ThirdParty/openpose"]
+	path = ThirdParty/openpose
+	url = https://github.com/CMU-Perceptual-Computing-Lab/openpose
